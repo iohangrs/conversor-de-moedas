@@ -16,7 +16,7 @@ Este projeto é um conversor de moedas simples desenvolvido em Java, utilizando 
 - Estrutura modular com organização em pacotes (api, util).
 
 📝 Exemplo de Uso:
-Moeda base (ex: USD): usd
-Moeda destino (ex: BRL): brl
-Valor para converter: 100
-Resultado: 100.00 USD = 513.25 BRL
+- Moeda base (ex: USD): usd
+- Moeda destino (ex: BRL): brl
+- Valor para converter: 100
+- Resultado: 100.00 USD = 513.25 BRL
