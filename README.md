@@ -14,3 +14,9 @@ Este projeto é um conversor de moedas simples desenvolvido em Java, utilizando 
 - Leitura e análise de JSON usando a biblioteca Gson.
 - Interface de texto no console para interação com o usuário.
 - Estrutura modular com organização em pacotes (api, util).
+
+📝 Exemplo de Uso:
+Moeda base (ex: USD): usd
+Moeda destino (ex: BRL): brl
+Valor para converter: 100
+Resultado: 100.00 USD = 513.25 BRL
